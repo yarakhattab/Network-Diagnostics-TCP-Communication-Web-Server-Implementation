@@ -1,0 +1,35 @@
+.blue-text {
+    color: blue;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #88a7c0;
+}
+header {
+    background-color: #3ddde9;
+    color: #4296e6;
+    text-align: center;
+    padding: 1em 0;
+}
+.box {
+    background-color: #a4c7e9;
+    padding: 15px;
+    border: 1px solid #89c0ee;
+    margin-bottom: 20px;
+}
+.member-box {
+    background-color: #93a8e2;
+    padding: 10px;
+    border: 1px solid #a684e5;
+    margin-top: 15px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+.course-info,.student-info, .images, .links {
+    margin: 25px;
+}
