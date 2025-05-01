@@ -59,7 +59,7 @@ This repository showcases the first project completed for the **Computer Network
   🎓 Computer Engineering Student – Birzeit University  
   
 
-**Taleen Byatnuh**  
+**Taleen Bayatneh**  
   🎓 Computer Engineering Student – Birzeit University  
  
 
