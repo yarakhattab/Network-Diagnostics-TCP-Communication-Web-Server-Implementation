@@ -46,25 +46,20 @@ This repository showcases the first project completed for the **Computer Network
 
 ---
 
-## 👩‍💻 Contributors
+## ✍️ Authors 
 
-- **Saja Asfour**  
-  🎓 Computer Engineering – Birzeit University  
-  🔗 [GitHub: SajaAsfour](https://github.com/SajaAsfour)
+**Yara Khattab**  
 
-- **Shahd Shreteh**  
-  🎓 Computer Engineering – Birzeit University  
-  🔗 [GitHub: ShahdShreteh](https://github.com/ShahdShreteh)
+  📧 [yarakhattab16@gmail.com](mailto:yarakhattab16@gmail.com) 
 
-- **Rawand Bawatneh**  
-  🎓 Computer Engineering – Birzeit University  
-  🔗 [GitHub: rawandbawatneh](https://github.com/rawandbawatneh)
+  
+  🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
 
----
+**Miassar Joher**  
+  🎓 Computer Engineering Student – Birzeit University  
+  
 
-## 📘 License
-This project is intended for academic learning. Feel free to explore and use the contents, but please provide appropriate attribution. 😊
+**Taleen Byatnuh**  
+  🎓 Computer Engineering Student – Birzeit University  
+ 
 
----
-
-Let me know if you'd like a downloadable version or a version formatted specifically for GitHub Markdown.
